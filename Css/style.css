@@ -1,9 +1,7 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-h2{
- font-size: 200px;
-}
 
-.ok{
-   margin: 0 auto;
+.common-font {
+  font-family: "Inter", sans-serif;
 }
